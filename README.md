@@ -13,5 +13,5 @@ npx hardhat test
 ## Deployment
 This smart contract can be deployed by using the following command:
 ```
-npx hardhat ignition deploy ignition/modules/MoToken.js --network localhost
+npx hardhat ignition deploy ignition/modules/MoToken.js --network localhost (Replace localhost with your network of choice)
 ```
